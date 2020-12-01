@@ -10,4 +10,4 @@
 
 * Submit an updated LinkedIn profile
 
-https://user-images.githubusercontent.com/72281065/100680662-49d35c00-332f-11eb-9b38-16a3333a698d.JPG
+![portfolioaboutme](https://user-images.githubusercontent.com/72281065/100680662-49d35c00-332f-11eb-9b38-16a3333a698d.JPG)
